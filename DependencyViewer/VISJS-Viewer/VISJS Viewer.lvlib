@@ -6,4 +6,5 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="VISJS Viewer.vi" Type="VI" URL="../VISJS Viewer.vi"/>
 	<Item Name="VISJS Viewer_EscapePath.vi" Type="VI" URL="../VISJS Viewer_EscapePath.vi"/>
+	<Item Name="VISJS_SendDataToWebBrowser.vi" Type="VI" URL="../VISJS_SendDataToWebBrowser.vi"/>
 </Library>
