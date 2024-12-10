@@ -3,6 +3,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -32,6 +33,7 @@
 		</Item>
 		<Item Name="DP-Common.lvlib" Type="Library" URL="../DependencyViewer/DP-Common/DP-Common.lvlib"/>
 		<Item Name="DP_IniSigningTool.vi" Type="VI" URL="../DP_IniSigningTool.vi"/>
+		<Item Name="DependencyViewer_Tester.vi" Type="VI" URL="../DependencyViewer_Tester.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
