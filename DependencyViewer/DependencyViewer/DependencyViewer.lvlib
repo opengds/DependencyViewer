@@ -33,4 +33,5 @@
 	<Item Name="GetPoupMenus.vi" Type="VI" URL="../GetPoupMenus.vi"/>
 	<Item Name="ReadConfigFile.vi" Type="VI" URL="../ReadConfigFile.vi"/>
 	<Item Name="Settings.ctl" Type="VI" URL="../Settings.ctl"/>
+	<Item Name="GenerateName.vi" Type="VI" URL="../GenerateName.vi"/>
 </Library>
