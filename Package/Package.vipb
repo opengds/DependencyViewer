@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-10-22 13:42:40" Modified_Date="2025-07-31 17:35:56" Creator="VI-Tech" Comments="" ID="62292edde19e9f3637891c689d8f108e">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-10-22 13:42:40" Modified_Date="2025-08-08 08:36:47" Creator="VI-Tech" Comments="" ID="e1f6d0d87f195d75826285b972cf7e29">
   <Library_General_Settings>
     <Package_File_Name>OpenGDS_DependencyViewer</Package_File_Name>
-    <Library_Version>1.1.0.9</Library_Version>
+    <Library_Version>1.1.0.10</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
