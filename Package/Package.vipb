@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-10-22 13:42:40" Modified_Date="2025-07-30 12:08:06" Creator="VI-Tech" Comments="" ID="7d601d088976a2c0c8d43dc625dc14e9">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-10-22 13:42:40" Modified_Date="2025-07-31 17:35:56" Creator="VI-Tech" Comments="" ID="62292edde19e9f3637891c689d8f108e">
   <Library_General_Settings>
     <Package_File_Name>OpenGDS_DependencyViewer</Package_File_Name>
-    <Library_Version>1.1.0.6</Library_Version>
+    <Library_Version>1.1.0.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -34,7 +34,7 @@ Easily analyse and visualize your dependencies between libraries or classes.</De
       <Copyright/>
       <Packager>OpenGDS</Packager>
       <URL>https://github.com/opengds/DependencyViewer</URL>
-      <Release_Notes>Added option to stop analysing dependent items after reaching a certain depth</Release_Notes>
+      <Release_Notes>Added WebView2 support</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -145,6 +145,9 @@ Easily analyse and visualize your dependencies between libraries or classes.</De
       </Exclusions>
       <Exclusions>
         <Path>Images</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>DependencyViewer_Tester.vi</Path>
       </Exclusions>
       <Place_Folder_Contents>
         <Path/>
